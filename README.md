@@ -20,3 +20,8 @@
 ### They bookmark the site/share it with friends
 ## Retention
 ### Notifications such as when someone you follow posts or if one of your posts reaches a certain like milestone
+
+
+
+## Mockup
+![Home Page](https://github.com/user-attachments/assets/dc3b1292-c3d8-49b1-93fd-aacaab91f3ea)
