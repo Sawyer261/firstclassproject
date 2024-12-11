@@ -23,5 +23,9 @@
 
 
 
+## Wireframe
+![Wireframe](https://github.com/user-attachments/assets/2585b985-7fa4-4ab3-8a66-07ce30ff23d4)
+
+
 ## Mockup
 ![Home Page](https://github.com/user-attachments/assets/dc3b1292-c3d8-49b1-93fd-aacaab91f3ea)
