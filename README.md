@@ -7,7 +7,12 @@
  Gaussian blur whenever menu opens
 ## Target Audience
  Pet Owners
+
 People who want to see animal pictures
+
+People who want to get a pet
+
+Veterinarians
 ###
 ###
 ## User Journey
